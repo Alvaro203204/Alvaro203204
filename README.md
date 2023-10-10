@@ -6,6 +6,8 @@ I mainly focus on back-end technologies, although I also know some HTML, CSS and
 
 Currently I work on 3 Verified Discord bots based on the Discord.js library and written in TypeScript. Also from time to time I do projects for streamers like MrKeroro10 or MateoZ (Custom Alert Systems based on React, Express and TwitchAPI EventSub)
 
+I worked with a eSports League called National League, supported by Supercell.
+
 ### 💻 Skills
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/en/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=101010)](https://www.typescriptlang.org/)
